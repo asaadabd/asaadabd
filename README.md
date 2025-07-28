@@ -1,6 +1,6 @@
 
 <div align="center" width="50">
-<img alt="no" src="./github-header-image.png">
+
 
 
 <details>
