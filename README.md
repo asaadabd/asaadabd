@@ -1,6 +1,6 @@
 
 <div align="center" width="50">
-![Header](./your-header-image-name.png)
+<img alt="no" src="./github-header-image.png">
 
 
 <details>
